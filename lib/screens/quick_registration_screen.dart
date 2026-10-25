@@ -22,7 +22,7 @@ class QuickRegistrationScreen extends StatelessWidget {
     this.description,
     this.ctaText,
     this.footerText,
-    this.registrationUrl = 'https://applinkgo.com/srf2PnRD',
+    this.registrationUrl = 'https://applinkgo.com/VnvJKMTK',
     this.backgroundAsset = 'assets/stadium_bg.jpg',
     this.primaryCtaColor = const Color(0xFF007AFF),
     this.accentTextColor = const Color(0xFF2979FF),
